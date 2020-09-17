@@ -1,0 +1,22 @@
+변수 2개 입력받았을 때
+-> 이차원 배열 만드는 법
+
+1. 범위가 주어지므로 전체 배열로 선언한다. (선언하기 편하나 데이터 손실 발생)
+ex) arr[max][max]
+
+2.vector를 이용해서 string으로 입력받는다. ( string 으로 여러 개 입력받을 수 있다.)
+ex) vector<string> num;
+
+3. 동적배열을 이용한다. ( 하나씩 입력 받을 수 있는 장점)
+int n,m
+char **A=new char*[n];
+for(;;)
+A[i]=new char[m+1];
+
+delete 문도 조금 다르다.
+for (int count = 0; count < 10; ++count) 
+	delete[] array[count]; 
+delete[] array;
+
+4. 2차원 배열을 인자로 받는 것
+(*arr)[4] 	// 주소에 의한 것이다.
