@@ -7,6 +7,8 @@ using namespace std;
 
 int main()
 {
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
 	int N, M;
 	int num;
 	cin >> N;
@@ -21,11 +23,8 @@ int main()
 	cin >> M;
 	for (int i = 0; i < M; i++)
 	{
-		ios_base::sync_with_stdio(0);
-		cin.tie(0);
-
 		cin >> num;
-		// numÀ» arr ¹è¿­¿¡¼­ ÀÌºĞÅ½»öÇÏÀÚ
+		// numì„ arr ë°°ì—´ì—ì„œ ì´ë¶„íƒìƒ‰í•˜ì
 		int left = 0;
 		int right = N - 1;
 		
