@@ -58,3 +58,40 @@
  + [정수 삼각형](https://www.acmicpc.net/problem/1932): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/dynamic_programming/dynamic_programming_1932.cpp))
  + [계단 오르기](https://www.acmicpc.net/problem/2579): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/dynamic_programming/dynamic_programming_2579x.cpp))
  + [파도반 수열](https://www.acmicpc.net/problem/9461): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/dynamic_programming/dynamic_programming_9461.cpp))
+
+## 그리디 알고리즘
++ [전자레인지](https://www.acmicpc.net/problem/10162): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_10162.cpp))
++ [보석도둑](https://www.acmicpc.net/problem/1202): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1202.cpp))
++ [주유소](https://www.acmicpc.net/problem/13305): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_13305.cpp))
++ [단어 수학](https://www.acmicpc.net/problem/1339): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1339.cpp))
++ [수리공 항승](https://www.acmicpc.net/problem/1449): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1449.cpp))
++ [카드 합체 놀이](https://www.acmicpc.net/problem/15903): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_15903.cpp))
++ [수 묶기](https://www.acmicpc.net/problem/1744): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1744.cpp))
++ [병든 나이트](https://www.acmicpc.net/problem/1783): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1783.cpp))
++ [신입 사원](https://www.acmicpc.net/problem/1946): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_1946.cpp))
++ [저울](https://www.acmicpc.net/problem/2437): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_2437.cpp))
++ [설탕 배달](https://www.acmicpc.net/problem/2839): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_2839.cpp))
++ [게임을 만든 동준이](https://www.acmicpc.net/problem/2847): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_2847.cpp))
++ [캠핑](https://www.acmicpc.net/problem/4796): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_4796.cpp))
++ [동전 0](https://www.acmicpc.net/problem/11047): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_algorithm11047.cpp))
++ [ATM](https://www.acmicpc.net/problem/11399): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_algorithm11399.cpp))
++ [로프](https://www.acmicpc.net/problem/2217): ([C 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_algorithm2217.c))
++ [거스름돈](https://www.acmicpc.net/problem/5585): ([C 코드](https://github.com/jungchunkim/study_algorithm/blob/master/greedy_algorithm/greedy_algortithm5585.c))
+
+## 순환 알고리즘
++ [연산자 끼워넣기](https://www.acmicpc.net/problem/14888): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/recursion_algorithm/recursion_14888.cpp))
++ [연산자 끼워넣기(2)](https://www.acmicpc.net/problem/15658): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/recursion_algorithm/recursion_15658.cpp))
++ [에너지 모으기](https://www.acmicpc.net/problem/16198): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/recursion_algorithm/recursion_16198.cpp))
+
+## 정렬 알고리즘
++ [나이순 정렬](https://www.acmicpc.net/problem/10814): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_10814.cpp))
++ [국영수](https://www.acmicpc.net/problem/10825): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_10825.cpp))
++ [수 정렬하기 3](https://www.acmicpc.net/problem/10989): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_10989.cpp))
++ [좌표 정렬하기](https://www.acmicpc.net/problem/11650): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_11650.cpp))
++ [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_11651.cpp))
++ [수 정렬하기 2](https://www.acmicpc.net/problem/2751): ([C++ 코드](https://github.com/jungchunkim/study_algorithm/blob/master/sorting_algorithm/sort_2751.cpp))
+
+
+
+
+
