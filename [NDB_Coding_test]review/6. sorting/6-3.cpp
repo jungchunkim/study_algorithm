@@ -35,6 +35,10 @@ int main()
 		{
 			arr[0 + i] = brr[(N - 1) - i];
 		}
+		else
+		{
+			break;
+		}
 	}
 	int sum = 0;
 	for (int i = 0; i < N; i++)
